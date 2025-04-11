@@ -143,6 +143,6 @@ mutation DeleteTodo($deleteTodoId: String!) {
 }
 
 ```
-<img width="1776" alt="Screenshot 2025-04-11 at 2 39 13 PM" src="https://github.com/user-attachments/assets/8f1ea11e-af8c-4a7e-9033-376446963a19" />
+<img src="./apolloSandox.png" alt="todo app" />
 
 

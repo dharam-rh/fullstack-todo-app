@@ -2,11 +2,11 @@
 ```markdown
 # 🧩 Full-Stack GraphQL To-Do List App
 
-A modern full-stack **To-Do list application** built using:
+A modern full-stack To-Do list application built using:
 
-- 🔮 **Frontend:** React with Apollo Client + TypeScript + Vite + GrahphQL
-- 🧠 **Backend:** NestJS with Apollo Server + TypeScript (GraphQL Code-First)
-- 🎯 **Codegen:** GraphQL Code Generator for auto-updated TypeScript types
+- 🔮 Frontend: React with Apollo Client + TypeScript + Vite + GrahphQL
+- 🧠 Backend: NestJS with Apollo Server + TypeScript (GraphQL Code-First)
+- 🎯 Codegen: GraphQL Code Generator for auto-updated TypeScript types
 
 ---
 
